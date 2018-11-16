@@ -1,6 +1,6 @@
 ---------
-*-----仓库地址-------*
 ```
+//*-----仓库地址-------*
 repositories {
     //maven { url 'https://github.com/dwvip/repo/raw/master' }
     maven { url 'https://dwvip.github.io/repo' }
