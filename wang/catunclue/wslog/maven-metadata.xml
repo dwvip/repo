@@ -3,11 +3,12 @@
   <groupId>wang.catunclue</groupId>
   <artifactId>wslog</artifactId>
   <versioning>
-    <release>0.1.1</release>
+    <release>0.1.2</release>
     <versions>
       <version>0.1</version>
       <version>0.1.1</version>
+      <version>0.1.2</version>
     </versions>
-    <lastUpdated>20181206105241</lastUpdated>
+    <lastUpdated>20181206113437</lastUpdated>
   </versioning>
 </metadata>
